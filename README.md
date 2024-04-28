@@ -59,4 +59,4 @@ To do list
 
 :bulb: **Tip:** Remember to appreciate the little things in life.
 
-[![영상 테스트](_스크린샷%202024-04-28%20210359.png)](https://youtu.be/YAmLMohrus4?si=LK4l1Ypzduu_SYg0)
+[![영상 테스트](./_스크린샷%202024-04-28%20210359.png)](https://youtu.be/YAmLMohrus4?si=LK4l1Ypzduu_SYg0)
