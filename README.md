@@ -1,8 +1,8 @@
 # 마크다운 익히기
 
-**[출처] (https://www.markdownguide.org/)**
+**[출처](https://www.markdownguide.org/)**
 
-![마크다운 이미지](_마크다운.png)
+![마크다운 이미지](./마크다운.png)
 
 <font color="Blue">*마크다운이란?*</font>
 ------------
